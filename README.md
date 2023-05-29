@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandeepjalui93
-- 👀 I’m interested in Hardware Design, Software Engineering, Machine Learning, Deep Learning, Computer Vision
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, Hardware Design, Software Engineering.
 - 🌱 Pursuing MS in ECE from University of Florida with a thesis in ML/CV
 - 📫 Reach me at sandeepjalui93@gmail.com/sjalui@ufl.edu
 
